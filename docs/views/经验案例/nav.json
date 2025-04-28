@@ -1,0 +1,44 @@
+{
+  "nav": [
+    {
+      "text": "经验案例",
+      "items": [
+        {
+          "text": "全栈架构案例",
+          "link": "/views/经验案例/全栈架构案例/readme.md"
+        },
+        {
+          "text": "前端架构案例",
+          "link": "/views/经验案例/前端架构案例/readme.md"
+        },
+        {
+          "text": "后端架构案例",
+          "link": "/views/经验案例/后端架构案例/readme.md"
+        }
+      ]
+    }
+  ],
+  "sidebar": {
+    "/views/经验案例/全栈架构案例": [
+      {
+        "text": "全栈架构案例",
+        "collapsed": false,
+        "items": []
+      }
+    ],
+    "/views/经验案例/前端架构案例": [
+      {
+        "text": "前端架构案例",
+        "collapsed": false,
+        "items": []
+      }
+    ],
+    "/views/经验案例/后端架构案例": [
+      {
+        "text": "后端架构案例",
+        "collapsed": false,
+        "items": []
+      }
+    ]
+  }
+}

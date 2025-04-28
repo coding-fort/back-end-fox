@@ -1,0 +1,383 @@
+{
+  "nav": [
+    {
+      "text": "计算机基础",
+      "items": [
+        {
+          "text": "性能安全",
+          "link": "/views/计算机基础/性能安全/readme.md"
+        },
+        {
+          "text": "操作系统",
+          "link": "/views/计算机基础/操作系统/readme.md"
+        },
+        {
+          "text": "数据结构",
+          "link": "/views/计算机基础/数据结构/readme.md"
+        },
+        {
+          "text": "算法",
+          "link": "/views/计算机基础/算法/readme.md"
+        },
+        {
+          "text": "编译原理",
+          "link": "/views/计算机基础/编译原理/readme.md"
+        },
+        {
+          "text": "计算机网络",
+          "link": "/views/计算机基础/计算机网络/readme.md"
+        }
+      ]
+    }
+  ],
+  "sidebar": {
+    "/views/计算机基础/性能安全": [
+      {
+        "text": "性能安全",
+        "collapsed": false,
+        "items": [
+          {
+            "text": "安全",
+            "items": [
+              {
+                "text": "CSP",
+                "link": "/views/计算机基础/性能安全/安全/CSP"
+              },
+              {
+                "text": "CSRF",
+                "link": "/views/计算机基础/性能安全/安全/CSRF"
+              },
+              {
+                "text": "SOP",
+                "link": "/views/计算机基础/性能安全/安全/SOP"
+              },
+              {
+                "text": "SQL 注入",
+                "link": "/views/计算机基础/性能安全/安全/SQL 注入"
+              },
+              {
+                "text": "XSS",
+                "link": "/views/计算机基础/性能安全/安全/XSS"
+              },
+              {
+                "text": "接口加密",
+                "link": "/views/计算机基础/性能安全/安全/接口加密"
+              }
+            ],
+            "collapsed": false
+          },
+          {
+            "text": "性能",
+            "items": [
+              {
+                "text": "性能指标",
+                "link": "/views/计算机基础/性能安全/性能/性能指标"
+              },
+              {
+                "text": "评估工具",
+                "link": "/views/计算机基础/性能安全/性能/评估工具"
+              }
+            ],
+            "collapsed": false
+          },
+          {
+            "text": "浏览器",
+            "items": [
+              {
+                "text": "Chrome(Blink)",
+                "link": "/views/计算机基础/性能安全/浏览器/Chrome(Blink)"
+              },
+              {
+                "text": "Edge(EdgeHTML)",
+                "link": "/views/计算机基础/性能安全/浏览器/Edge(EdgeHTML)"
+              },
+              {
+                "text": "Firefox(Gecko)",
+                "link": "/views/计算机基础/性能安全/浏览器/Firefox(Gecko)"
+              },
+              {
+                "text": "IE(Trident)",
+                "link": "/views/计算机基础/性能安全/浏览器/IE(Trident)"
+              },
+              {
+                "text": "Opera(Blink)",
+                "link": "/views/计算机基础/性能安全/浏览器/Opera(Blink)"
+              },
+              {
+                "text": "Safari(WebKit)",
+                "link": "/views/计算机基础/性能安全/浏览器/Safari(WebKit)"
+              }
+            ],
+            "collapsed": false
+          },
+          {
+            "text": "网络通信",
+            "items": [
+              {
+                "text": "API 风格",
+                "link": "/views/计算机基础/性能安全/网络通信/API 风格"
+              },
+              {
+                "text": "通信协议",
+                "link": "/views/计算机基础/性能安全/网络通信/通信协议"
+              }
+            ],
+            "collapsed": false
+          }
+        ]
+      }
+    ],
+    "/views/计算机基础/操作系统": [
+      {
+        "text": "操作系统",
+        "collapsed": false,
+        "items": [
+          {
+            "text": "Mobile",
+            "items": [
+              {
+                "text": "Android",
+                "link": "/views/计算机基础/操作系统/Mobile/Android"
+              },
+              {
+                "text": "IOS",
+                "link": "/views/计算机基础/操作系统/Mobile/IOS"
+              }
+            ],
+            "collapsed": false
+          },
+          {
+            "text": "PC",
+            "items": [
+              {
+                "text": "Linux",
+                "link": "/views/计算机基础/操作系统/PC/Linux"
+              },
+              {
+                "text": "Mac OS",
+                "link": "/views/计算机基础/操作系统/PC/Mac OS"
+              },
+              {
+                "text": "Unix",
+                "link": "/views/计算机基础/操作系统/PC/Unix"
+              },
+              {
+                "text": "Windows",
+                "link": "/views/计算机基础/操作系统/PC/Windows"
+              }
+            ],
+            "collapsed": false
+          }
+        ]
+      }
+    ],
+    "/views/计算机基础/数据结构": [
+      {
+        "text": "数据结构",
+        "collapsed": false,
+        "items": [
+          {
+            "text": "哈希表（Map）",
+            "link": "/views/计算机基础/数据结构/哈希表（Map）"
+          },
+          {
+            "text": "堆（Heap）",
+            "link": "/views/计算机基础/数据结构/堆（Heap）"
+          },
+          {
+            "text": "数组（Array）",
+            "link": "/views/计算机基础/数据结构/数组（Array）"
+          },
+          {
+            "text": "栈（Stack）",
+            "link": "/views/计算机基础/数据结构/栈（Stack）"
+          },
+          {
+            "text": "树（Tree）",
+            "link": "/views/计算机基础/数据结构/树（Tree）"
+          },
+          {
+            "text": "链表（Linked List）",
+            "link": "/views/计算机基础/数据结构/链表（Linked List）"
+          },
+          {
+            "text": "队列（Queue）",
+            "link": "/views/计算机基础/数据结构/队列（Queue）"
+          },
+          {
+            "text": "集合（Set）",
+            "link": "/views/计算机基础/数据结构/集合（Set）"
+          }
+        ]
+      }
+    ],
+    "/views/计算机基础/算法": [
+      {
+        "text": "算法",
+        "collapsed": false,
+        "items": [
+          {
+            "text": "Diff",
+            "items": [],
+            "collapsed": false
+          },
+          {
+            "text": "排序",
+            "items": [],
+            "collapsed": false
+          },
+          {
+            "text": "检索",
+            "items": [],
+            "collapsed": false
+          }
+        ]
+      }
+    ],
+    "/views/计算机基础/编译原理": [
+      {
+        "text": "编译原理",
+        "collapsed": false,
+        "items": []
+      }
+    ],
+    "/views/计算机基础/计算机网络": [
+      {
+        "text": "计算机网络",
+        "collapsed": false,
+        "items": [
+          {
+            "text": "JWT",
+            "link": "/views/计算机基础/计算机网络/JWT"
+          },
+          {
+            "text": "OAuth",
+            "items": [
+              {
+                "text": "GitHub 授权登陆",
+                "link": "/views/计算机基础/计算机网络/OAuth/GitHub 授权登陆"
+              },
+              {
+                "text": "OAuth",
+                "link": "/views/计算机基础/计算机网络/OAuth/OAuth"
+              },
+              {
+                "text": "OAuth2",
+                "link": "/views/计算机基础/计算机网络/OAuth/OAuth2"
+              },
+              {
+                "text": "凭证授权模式",
+                "link": "/views/计算机基础/计算机网络/OAuth/凭证授权模式"
+              },
+              {
+                "text": "密码授权模式",
+                "link": "/views/计算机基础/计算机网络/OAuth/密码授权模式"
+              },
+              {
+                "text": "微信授权登陆",
+                "link": "/views/计算机基础/计算机网络/OAuth/微信授权登陆"
+              },
+              {
+                "text": "授权机制设计",
+                "link": "/views/计算机基础/计算机网络/OAuth/授权机制设计"
+              },
+              {
+                "text": "授权码模式",
+                "link": "/views/计算机基础/计算机网络/OAuth/授权码模式"
+              },
+              {
+                "text": "授权类型",
+                "link": "/views/计算机基础/计算机网络/OAuth/授权类型"
+              },
+              {
+                "text": "支付宝支付功能",
+                "link": "/views/计算机基础/计算机网络/OAuth/支付宝支付功能"
+              },
+              {
+                "text": "隐藏授权模式",
+                "link": "/views/计算机基础/计算机网络/OAuth/隐藏授权模式"
+              }
+            ],
+            "collapsed": false
+          },
+          {
+            "text": "TCP 协议",
+            "link": "/views/计算机基础/计算机网络/TCP 协议"
+          },
+          {
+            "text": "TCPIP协议",
+            "link": "/views/计算机基础/计算机网络/TCPIP协议"
+          },
+          {
+            "text": "WebSocket",
+            "link": "/views/计算机基础/计算机网络/WebSocket"
+          },
+          {
+            "text": "cookie与session",
+            "link": "/views/计算机基础/计算机网络/cookie与session"
+          },
+          {
+            "text": "http 缓存协议",
+            "link": "/views/计算机基础/计算机网络/http 缓存协议"
+          },
+          {
+            "text": "https 协议",
+            "link": "/views/计算机基础/计算机网络/https 协议"
+          },
+          {
+            "text": "http、https协议",
+            "link": "/views/计算机基础/计算机网络/http、https协议"
+          },
+          {
+            "text": "一级域名",
+            "link": "/views/计算机基础/计算机网络/一级域名"
+          },
+          {
+            "text": "中级",
+            "link": "/views/计算机基础/计算机网络/中级"
+          },
+          {
+            "text": "入门",
+            "link": "/views/计算机基础/计算机网络/入门"
+          },
+          {
+            "text": "全双工通信协议",
+            "link": "/views/计算机基础/计算机网络/全双工通信协议"
+          },
+          {
+            "text": "加密",
+            "link": "/views/计算机基础/计算机网络/加密"
+          },
+          {
+            "text": "同源策略",
+            "link": "/views/计算机基础/计算机网络/同源策略"
+          },
+          {
+            "text": "文件上传下载与断点续传",
+            "link": "/views/计算机基础/计算机网络/文件上传下载与断点续传"
+          },
+          {
+            "text": "概述",
+            "link": "/views/计算机基础/计算机网络/概述"
+          },
+          {
+            "text": "网络",
+            "link": "/views/计算机基础/计算机网络/网络"
+          },
+          {
+            "text": "网络性能优化",
+            "link": "/views/计算机基础/计算机网络/网络性能优化"
+          },
+          {
+            "text": "网络攻击",
+            "link": "/views/计算机基础/计算机网络/网络攻击"
+          },
+          {
+            "text": "高级",
+            "link": "/views/计算机基础/计算机网络/高级"
+          }
+        ]
+      }
+    ]
+  }
+}

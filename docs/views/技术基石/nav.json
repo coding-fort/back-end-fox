@@ -1,0 +1,292 @@
+{
+  "nav": [
+    {
+      "text": "技术基石",
+      "items": [
+        {
+          "text": "开发软件",
+          "link": "/views/技术基石/开发软件/readme.md"
+        },
+        {
+          "text": "操作系统与服务器基础",
+          "link": "/views/技术基石/操作系统与服务器基础/readme.md"
+        },
+        {
+          "text": "数据存储与管理",
+          "link": "/views/技术基石/数据存储与管理/readme.md"
+        },
+        {
+          "text": "编程语言基础",
+          "link": "/views/技术基石/编程语言基础/readme.md"
+        }
+      ]
+    }
+  ],
+  "sidebar": {
+    "/views/技术基石/开发软件": [
+      {
+        "text": "开发软件",
+        "collapsed": false,
+        "items": [
+          {
+            "text": "编辑器",
+            "items": [],
+            "collapsed": false
+          },
+          {
+            "text": "编辑器及IDE",
+            "items": [],
+            "collapsed": false
+          },
+          {
+            "text": "调试工具",
+            "items": [],
+            "collapsed": false
+          }
+        ]
+      }
+    ],
+    "/views/技术基石/操作系统与服务器基础": [
+      {
+        "text": "操作系统与服务器基础",
+        "collapsed": false,
+        "items": [
+          {
+            "text": "浏览器基础",
+            "items": [],
+            "collapsed": false
+          }
+        ]
+      }
+    ],
+    "/views/技术基石/数据存储与管理": [
+      {
+        "text": "数据存储与管理",
+        "collapsed": false,
+        "items": []
+      }
+    ],
+    "/views/技术基石/编程语言基础": [
+      {
+        "text": "编程语言基础",
+        "collapsed": false,
+        "items": [
+          {
+            "text": "前端语言核心",
+            "items": [],
+            "collapsed": false
+          },
+          {
+            "text": "后端语言概论",
+            "items": [],
+            "collapsed": false
+          },
+          {
+            "text": "编程思想",
+            "items": [
+              {
+                "text": "架构模式",
+                "items": [],
+                "collapsed": false
+              },
+              {
+                "text": "程序设计",
+                "items": [],
+                "collapsed": false
+              },
+              {
+                "text": "编程范型",
+                "items": [],
+                "collapsed": false
+              }
+            ],
+            "collapsed": false
+          },
+          {
+            "text": "计算机基础",
+            "items": [
+              {
+                "text": "性能安全",
+                "items": [
+                  {
+                    "text": "安全",
+                    "items": [
+                      {
+                        "text": "CSP",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/安全/CSP"
+                      },
+                      {
+                        "text": "CSRF",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/安全/CSRF"
+                      },
+                      {
+                        "text": "SOP",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/安全/SOP"
+                      },
+                      {
+                        "text": "SQL 注入",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/安全/SQL 注入"
+                      },
+                      {
+                        "text": "XSS",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/安全/XSS"
+                      },
+                      {
+                        "text": "接口加密",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/安全/接口加密"
+                      }
+                    ],
+                    "collapsed": false
+                  },
+                  {
+                    "text": "性能",
+                    "items": [
+                      {
+                        "text": "性能指标",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/性能/性能指标"
+                      },
+                      {
+                        "text": "评估工具",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/性能/评估工具"
+                      }
+                    ],
+                    "collapsed": false
+                  },
+                  {
+                    "text": "浏览器",
+                    "items": [
+                      {
+                        "text": "Chrome(Blink)",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/浏览器/Chrome(Blink)"
+                      },
+                      {
+                        "text": "Edge(EdgeHTML)",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/浏览器/Edge(EdgeHTML)"
+                      },
+                      {
+                        "text": "Firefox(Gecko)",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/浏览器/Firefox(Gecko)"
+                      },
+                      {
+                        "text": "IE(Trident)",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/浏览器/IE(Trident)"
+                      },
+                      {
+                        "text": "Opera(Blink)",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/浏览器/Opera(Blink)"
+                      },
+                      {
+                        "text": "Safari(WebKit)",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/浏览器/Safari(WebKit)"
+                      }
+                    ],
+                    "collapsed": false
+                  },
+                  {
+                    "text": "网络通信",
+                    "items": [
+                      {
+                        "text": "API 风格",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/网络通信/API 风格"
+                      },
+                      {
+                        "text": "通信协议",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/性能安全/网络通信/通信协议"
+                      }
+                    ],
+                    "collapsed": false
+                  }
+                ],
+                "collapsed": false
+              },
+              {
+                "text": "操作系统",
+                "items": [
+                  {
+                    "text": "Mobile",
+                    "items": [
+                      {
+                        "text": "Android",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/操作系统/Mobile/Android"
+                      },
+                      {
+                        "text": "IOS",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/操作系统/Mobile/IOS"
+                      }
+                    ],
+                    "collapsed": false
+                  },
+                  {
+                    "text": "PC",
+                    "items": [
+                      {
+                        "text": "Linux",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/操作系统/PC/Linux"
+                      },
+                      {
+                        "text": "Mac OS",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/操作系统/PC/Mac OS"
+                      },
+                      {
+                        "text": "Unix",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/操作系统/PC/Unix"
+                      },
+                      {
+                        "text": "Windows",
+                        "link": "/views/技术基石/编程语言基础/计算机基础/操作系统/PC/Windows"
+                      }
+                    ],
+                    "collapsed": false
+                  }
+                ],
+                "collapsed": false
+              },
+              {
+                "text": "数据结构",
+                "items": [],
+                "collapsed": false
+              },
+              {
+                "text": "算法",
+                "items": [
+                  {
+                    "text": "Diff",
+                    "items": [],
+                    "collapsed": false
+                  },
+                  {
+                    "text": "排序",
+                    "items": [],
+                    "collapsed": false
+                  },
+                  {
+                    "text": "检索",
+                    "items": [],
+                    "collapsed": false
+                  }
+                ],
+                "collapsed": false
+              },
+              {
+                "text": "编译原理",
+                "items": [],
+                "collapsed": false
+              },
+              {
+                "text": "计算机网络",
+                "items": [],
+                "collapsed": false
+              }
+            ],
+            "collapsed": false
+          },
+          {
+            "text": "设计模式",
+            "items": [],
+            "collapsed": false
+          }
+        ]
+      }
+    ]
+  }
+}
